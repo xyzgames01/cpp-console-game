@@ -1,5 +1,7 @@
 # cpp-console-game
-My first project using c++, had a lot of fun learning c++.
+My first project using c++. 
+
+I had a lot of fun learning c++ and I plan to post more intricate projects very soon.
 
 ## Features
 - Arrow key navigation: with visual selection indicators
